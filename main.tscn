@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://ccmdux2x4fh5h"]
+
+[node name="Main" type="Node2D" unique_id=619420301]
+
+[node name="Player" type="Sprite2D" parent="." unique_id=1418438074]
+
+[node name="ScoreLabel" type="Label" parent="." unique_id=415281862]
+offset_right = 40.0
+offset_bottom = 23.0
